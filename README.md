@@ -1,2 +1,2 @@
 # frontend-knowledge
- frontend knowledge word 前端知识文档
+ frontend knowledge document 前端知识文档
