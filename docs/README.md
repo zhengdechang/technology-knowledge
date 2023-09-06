@@ -11,11 +11,11 @@ actionLink: /frontend/
 features: # 可选的
 
 - title: 前端
-  details: React、Vue 框架等前端技术
+  details: React、Vue、JavaScript 等前端技术
   link: /frontend/ # 可选
   imgUrl: /img/web.png # 可选
 - title: 后端
-  details: python、后端等后端技术
+  details: python、Node.js 等后端技术
   link: /backend/
   imgUrl: /img/python.png
 - title: 其他技术
