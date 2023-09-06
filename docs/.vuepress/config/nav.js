@@ -13,7 +13,7 @@ module.exports = [
         text: "前端文章",
         items: [
           { text: "JavaScript", link: "/pages/8143cc480faf9a11/" },
-          { text: "JavaScript", link: "/pages/8143cc480faf9a12/" }, // 注意link结尾有斜杠和没有斜杠的区别
+          { text: "React", link: "/pages/8143cc480faf9a12/" }, // 注意link结尾有斜杠和没有斜杠的区别
           { text: "Vue", link: "/pages/802a1ca6f7b71c59/" },
         ],
       },
@@ -41,7 +41,7 @@ module.exports = [
     ],
   },
   {
-    text: "技术",
+    text: "其他技术",
     link: "/technology/",
     items: [
       { text: "技术文档", link: "/pages/9a7ee40fc232253e/" },

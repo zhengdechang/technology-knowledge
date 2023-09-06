@@ -1,0 +1,15 @@
+---
+pageComponent:
+  name: Catalogue
+  data:
+    key: technology
+    imgUrl: /img/other.png
+    description: ansible、linux、技术文档等相关技术
+title: 其他技术
+date: 2023-09-06 17:49:53
+permalink: /technology
+sidebar: false
+article: false
+comment: false
+editLink: false
+---
