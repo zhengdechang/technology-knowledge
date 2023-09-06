@@ -4,7 +4,7 @@ module.exports = {
   title: "前后端知识库",
   description:
     "前端后端技术博客,简洁至上。JavaScript,js,ES6,TypeScript,react,vue,python,css3,html5,Node,git,github，ansible，vercel等技术文章。", // 描述,以 <meta> 标签渲染到页面html中
-  base: "/online-knowledge/",
+  base: "/",
   head: [
     ["link", { rel: "icon", href: "/img/favicon.ico" }],
     [
