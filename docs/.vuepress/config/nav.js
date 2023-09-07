@@ -14,7 +14,7 @@ module.exports = [
         items: [
           { text: "JavaScript", link: "/pages/a9d0ad/" },
           { text: "React", link: "/pages/" }, // 注意link结尾有斜杠和没有斜杠的区别
-          { text: "Vue", link: "/pages/" },
+          { text: "Vue", link: "/pages/90295c/" },
         ],
       },
       {
