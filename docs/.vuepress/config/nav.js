@@ -13,7 +13,7 @@ module.exports = [
         text: "前端文章",
         items: [
           { text: "JavaScript", link: "/pages/a9d0ad/" },
-          { text: "React", link: "/pages/" }, // 注意link结尾有斜杠和没有斜杠的区别
+          { text: "React", link: "/pages/bf2b12/" }, // 注意link结尾有斜杠和没有斜杠的区别
           { text: "Vue", link: "/pages/90295c/" },
         ],
       },
