@@ -36,7 +36,7 @@ module.exports = [
     link: "/backend/",
     items: [
       { text: "Node", link: "/pages/8309a5b876fc95e3/" },
-      { text: "Python", link: "/pages/0a83b083bdf257cb1/" },
+      { text: "Python", link: "/pages/8ca42b/" },
       { text: "Sanic", link: "/pages/411014/" },
     ],
   },
