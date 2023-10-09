@@ -35,7 +35,7 @@ module.exports = [
     text: "后端",
     link: "/backend/",
     items: [
-      { text: "Node", link: "/pages/8309a5b876fc95e3/" },
+      // { text: "Node", link: "/pages/8309a5b876fc95e3/" },
       { text: "Python", link: "/pages/8ca42b/" },
       { text: "Sanic", link: "/pages/411014/" },
     ],
@@ -44,10 +44,10 @@ module.exports = [
     text: "其他技术",
     link: "/technology/",
     items: [
-      { text: "技术文档", link: "/pages/9a7ee40fc232253e/" },
-      { text: "GitHub技巧", link: "/pages/4c778760be26d8b3/" },
-      { text: "Nodejs", link: "/pages/117708e0af7f0bd9/" },
-      { text: "博客搭建", link: "/pages/41f87d890d0a02af/" },
+      { text: "Linux", link: "/pages/64df52/" },
+      // { text: "GitHub技巧", link: "/pages/4c778760be26d8b3/" },
+      // { text: "Nodejs", link: "/pages/117708e0af7f0bd9/" },
+      // { text: "博客搭建", link: "/pages/41f87d890d0a02af/" },
     ],
   },
   { text: "归档", link: "/archives/" },
